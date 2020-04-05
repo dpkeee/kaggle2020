@@ -1,2 +1,2 @@
 # kaggle2020
-This repository is for exploring kaggle datasets
+This repository is for exploring kaggle datasets using  EDA
